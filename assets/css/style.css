@@ -1,0 +1,45 @@
+body{
+    background: url("https://www.planwallpaper.com/static/images/nfl-field-logo_1920x1080_167-hd.jpg");
+    background-size: 100%;
+}
+
+.jumbotron {
+    opacity: .7;
+    max-width: 960px;
+    margin: 0 auto;
+    float: none;
+    margin-top: 50px;
+}
+
+.container {
+    color: black;
+}
+
+.lead {
+    color: black;
+}
+
+.guess{
+    margin-bottom: 50px;
+    color: black;
+}
+
+.win {
+    margin-bottom: 50px;
+    color:black;
+}
+
+.lose {
+    margin-bottom: 50px;
+    color:black;
+
+}
+
+.score {
+    opacity: .7;
+    max-width: 960px;
+    margin: 0 auto;
+    float: none;
+    margin-top: 50px;
+}
+
